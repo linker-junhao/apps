@@ -1,0 +1,1 @@
+import{g as s}from"./index.2ab6f498.js";import{r as n}from"./vendor.a41f8111.js";const l=(t,o)=>{const e=o||n([]);return t.forEach((a,i)=>{s(a).then(r=>{r.file&&(e[i]=URL.createObjectURL(r.file))})}),e};export{l as r};
